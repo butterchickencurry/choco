@@ -1,0 +1,11 @@
+@charset "UTF-8"
+body {
+background-color: blue;
+}
+h1{
+color: white
+font-size: 26px;
+}
+h2{
+color: green;
+}
